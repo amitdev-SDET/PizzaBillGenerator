@@ -1,0 +1,8 @@
+step 1: Create Class Pizza
+step 2: create constructor as constructor(veg,non-veg)
+step 3: create method for extra cheese and extra topping to increase total price of pizza
+         getExtracheese,getExtraTopping
+step 3: create addTakeaway method
+
+step 4: create Deluxe pizzawhich will inherit pizza so that here we restrict user to addExtracheese and addExtraTopping
+          because these two are by default for deluxe
